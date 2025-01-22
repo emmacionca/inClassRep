@@ -1,2 +1,3 @@
 # inClassRep
-This is an FDS test repo.
+Editing my README file.
+
